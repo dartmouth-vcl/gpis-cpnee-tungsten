@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+    "-DCMAKE_MODULE_PATH=/usr/local/lib/cmake/OpenVDB",
+    "-DCMAKE_CXX_FLAGS=-I/usr/local/include/OpenEXR -I/usr/include/Imath -I/usr/include/OpenEXR"
+]
+}

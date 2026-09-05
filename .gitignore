@@ -1,0 +1,11 @@
+cmake-*/
+.idea/
+build/
+*.png
+*.exr
+*.hdr
+*.vdb
+*.mtl
+*.obj
+compute_aniso_mtx.py
+/scenes
