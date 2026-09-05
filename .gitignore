@@ -9,3 +9,5 @@ build/
 *.obj
 compute_aniso_mtx.py
 /scenes
+
+!teaser.png
