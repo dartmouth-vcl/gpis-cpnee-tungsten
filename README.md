@@ -28,8 +28,7 @@ The scattering circle and the light circle are intersected in `src/core/primitiv
 
 ## Scene Files
 
-We provide the JSON scene files that reproduce the results in the paper on [Google Drive](). Some scene files contain several rendering configurations: only one is active at a time, and the remaining ones are commented out and annotated for clarity.
-
+We provide the JSON scene files that reproduce the results in the paper on [Google Drive](https://drive.google.com/file/d/1bI0k1SdPAixxS3s0bmPk9CWCQqHGL7wQ/view?usp=sharing).
 The rendered results are also available through an interactive viewer on the project webpage.
 
 ## Parameters
